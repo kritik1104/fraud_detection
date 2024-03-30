@@ -1,2 +1,2 @@
 
-print("adding ll the line of data processing codes related to fraud")
+print("adding all the line of data processing codes related to fraud")
