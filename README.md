@@ -34,10 +34,10 @@ Charged-off: Applicant has not paid the instalments in due time for a long perio
 
 Python Libraries:
 
-pandas
-numpy
-seaborn
-matplotlib.pyplot
+- pandas
+- numpy
+- seaborn
+- matplotlib.pyplot
 
 
 ## Analysis
