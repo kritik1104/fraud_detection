@@ -43,9 +43,9 @@ Python Libraries:
 ## Analysis
 The analysis covers the following aspects:
 
-Understanding of the given Data
-Data Preparation(Cleaning, Standardisation, treating outliers)
-Data Analysis(Univariate and Bivariate analysis)
+- Understanding of the given Data
+- Data Preparation(Cleaning, Standardisation, treating outliers)
+- Data Analysis(Univariate and Bivariate analysis)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -60,13 +60,13 @@ In general, from the given data the applicants with higher loan amount, higher i
 
 
 ## Authors:
-Kritik Mohanty
-Srishti Garg
+- Kritik Mohanty
+- Srishti Garg
 
 ## Reference
-UpGrad Material – Live session and recordings
-Seaborn Libraries https://seaborn.pydata.org/tutorial/categorical.html https://seaborn.pydata.org/tutorial/distributions.html
-Lending Club website https://www.lendingclub.com/personal-loan/rates-fees https://www.lendingclub.com/resource-center
+- UpGrad Material – Live session and recordings
+- Seaborn Libraries https://seaborn.pydata.org/tutorial/categorical.html https://seaborn.pydata.org/tutorial/distributions.html
+- Lending Club website https://www.lendingclub.com/personal-loan/rates-fees https://www.lendingclub.com/resource-center
 
 
 
